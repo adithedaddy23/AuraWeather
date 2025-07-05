@@ -78,7 +78,7 @@ To use AuraWeather, you need to add your own weather API key:
 
 ## 🙌 Acknowledgements
 
-- [OpenWeatherMap](https://openweathermap.org/) or your preferred API provider
+- [OpenWeatherMap](https://openweathermap.org/)
 - Android Developer Docs
 - Jetpack Compose Team
 
