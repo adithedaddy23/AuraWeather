@@ -78,7 +78,8 @@ To use AuraWeather, you need to add your own weather API key:
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)(https://opensource.org/licenses/MIT
+).
 
 ---
 
