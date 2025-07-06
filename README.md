@@ -17,9 +17,11 @@ It provides real-time weather information based on the user’s current location
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://github.com/user-attachments/assets/0a341983-3eed-4251-8e8b-2823b9cf90d9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a341983-3eed-4251-8e8b-2823b9cf90d9" alt="Screenshot 1" width="250"/>
+  <img src="https://github.com/user-attachments/assets/63c14920-98a2-4b7b-bf21-149225664cc0" alt="Screenshot 2" width="250"/>
+</p>
 
-![Screenshot 2](https://github.com/user-attachments/assets/63c14920-98a2-4b7b-bf21-149225664cc0)
 
 
 
