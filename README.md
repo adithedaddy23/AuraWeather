@@ -17,8 +17,10 @@ It provides real-time weather information based on the user’s current location
 
 ## 📸 Screenshots
 
-![Screenshot_20250630_222212_Aura Weather Live Forecast](https://github.com/user-attachments/assets/0a341983-3eed-4251-8e8b-2823b9cf90d9)
-![Screenshot_20250630_221133_Aura Weather Live Forecast](https://github.com/user-attachments/assets/63c14920-98a2-4b7b-bf21-149225664cc0)
+![Screenshot 1](https://github.com/user-attachments/assets/0a341983-3eed-4251-8e8b-2823b9cf90d9)
+
+![Screenshot 2](https://github.com/user-attachments/assets/63c14920-98a2-4b7b-bf21-149225664cc0)
+
 
 
 
