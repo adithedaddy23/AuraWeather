@@ -95,10 +95,4 @@ This project is licensed under the [MIT License](LICENSE)(https://opensource.org
 
 ---
 
-## 🔗 GitHub Repo
-
-[👉 View on GitHub](https://github.com/adithedaddy23/AuraWeather)
-
----
-
 Feel free to contribute or suggest features by opening an issue or pull request!
